@@ -1,2 +1,2 @@
 #proyectosPython
-Proyecto pqueños de algoritmos en Python 3.7
+Proyecto pequeños de algoritmos en Python 3.7
